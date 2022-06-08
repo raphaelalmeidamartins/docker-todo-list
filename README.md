@@ -5,7 +5,7 @@
 <details>
   <summary markdown="span"><strong>:us: English</strong></summary><br />
 
-Docker project developed by [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) at the end of Unit 1 ([Back-end Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end)) of Trybe's Web Development course. I was approved with 100% of the mandatory and optional requirements met.
+Docker project developed by [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) at the end of Unit 19 ([Back-end Development Module](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end)) of Trybe's Web Development course. I was approved with 100% of the mandatory and optional requirements met.
 
 We had to create containers to an already developed full stack application by using docker CLI commands, Dockerfiles and Docker Compose.
 <br />
@@ -14,7 +14,7 @@ We had to create containers to an already developed full stack application by us
 <details>
   <summary markdown="span"><strong>:brazil: Português</strong></summary><br />
 
-Projeto Docker desenvolvido por [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) ao final do Bloco 1 ([Módulo Desenvolvimento Back-end](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end)) do curso de Desenvolvimento Web da Trybe. Fui aprovado com 100% dos requisitos obrigatórios e opcionais atingidos.
+Projeto Docker desenvolvido por [Raphael Martins](https://www.linkedin.com/in/raphaelameidamartins/) ao final do Bloco 19 ([Módulo Desenvolvimento Back-end](https://github.com/raphaelalmeidamartins/trybe_exercicios/tree/main/3_Desenvolvimento-Back-end)) do curso de Desenvolvimento Web da Trybe. Fui aprovado com 100% dos requisitos obrigatórios e opcionais atingidos.
 
 Tivemos que criar containers para uma aplicação full stack que já estava previamente desenvolvida utilizando comandos CLI do docker, Dockerfiles e Docker Compose.
 <br />
